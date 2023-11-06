@@ -4,16 +4,11 @@ import ListadoPeliculas from './components/ListadoPeliculas';
 
 
 
-
 function App() {
   return (
-    <div className='App'>
-      <h1 className='titulo-app'>Últimos estrenos</h1>
-      <div className='contenedor-principal'>
-      
-      <ListadoPeliculas />
-
-      </div>
+    <div>
+        <h1>Tus películas</h1>
+        <ListadoPeliculas />
     </div>
   );
 }
