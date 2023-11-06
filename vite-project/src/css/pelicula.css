@@ -18,7 +18,7 @@
 }
 
 .nombre-pelicula {
-    font-size: 21px;
+    font-size: 22px;
     font-weight: 500;
     text-align: left;
     padding: 10px 0px 3px;
@@ -52,14 +52,5 @@
 
 .score {
   font-size: 15px;
-  color: #817f7f;
-}
-
-.numero-cuadrado {
-    background-color: #38bb55; 
-    width: 22px; 
-    height: 22px;
-    padding: 2px; 
-    margin: 0px 2px;
-    color: #fff; 
+  color: #424242;
 }
