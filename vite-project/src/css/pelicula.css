@@ -18,24 +18,28 @@
 }
 
 .nombre-pelicula {
-    font-size: 24px;
+    font-size: 21px;
     font-weight: 500;
     text-align: left;
-    padding: 10px 0px 15px;
+    padding: 10px 0px 3px;
     color: #3b5998;
-
+    margin-bottom: 0px;
 }
 
 .director-pelicula {
     font-size: 16px;
     margin-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     color: #3b5998;
+}
+
+.bi {
+    color: #f6a700;
 }
 
 .release {
   color: #817f7f;
-  padding: 2px;
+  padding: 5px 0px;
   font-size: 15px;    
 }
 
@@ -48,4 +52,14 @@
 
 .score {
   font-size: 15px;
+  color: #817f7f;
+}
+
+.numero-cuadrado {
+    background-color: #38bb55; 
+    width: 22px; 
+    height: 22px;
+    padding: 2px; 
+    margin: 0px 2px;
+    color: #fff; 
 }
